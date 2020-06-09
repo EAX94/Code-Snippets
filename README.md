@@ -13,3 +13,7 @@ Find a string inside another string, supports case-insensitive.
 Send a button click down and button click up with PostMessage to any XY position in screen without moving the cursor.
 * [C#](MouseClickWithoutMovingCursor/C%23/File.cs)
 * [C++](MouseClickWithoutMovingCursor/C%2B%2B/File.cpp)
+
+## [Force BSOD](ForceBSOD/)
+Force a BSOD in Windows.
+* [C++](ForceBSOD/C%2B%2B/File.cpp)
