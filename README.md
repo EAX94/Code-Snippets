@@ -1,5 +1,5 @@
 # Code-Snippets
-A list of code snippets.
+A list of code snippets. Most of this snippets were taken from Internet by other people, so, credits corresponding to each of them.
 
 ## [Address to Hex String](AddressToHexString/)
 Pass an address as argument, returns a string in hexadecimal format.
@@ -17,3 +17,7 @@ Send a button click down and button click up with PostMessage to any XY position
 ## [Force BSOD](ForceBSOD/)
 Force a BSOD in Windows.
 * [C++](ForceBSOD/C%2B%2B/File.cpp)
+
+## [Get Current Time as Formatted String](GetCurrentTimeAsFormattedString/)
+Get current time as a formatted string.
+* [C++](GetCurrentTimeAsFormattedString/C%2B%2B/File.cpp)
