@@ -16,7 +16,7 @@ Send a button click down and button click up with PostMessage to any XY position
 
 ## [Force BSOD](ForceBSOD/)
 Force a BSOD in Windows.
-* [C#]([ForceBSOD/C%23/File.cs])
+* [C#](ForceBSOD/C%23/File.cs)
 * [C++](ForceBSOD/C%2B%2B/File.cpp)
 
 ## [Get Current Time as Formatted String](GetCurrentTimeAsFormattedString/)
